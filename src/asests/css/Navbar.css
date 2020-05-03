@@ -38,6 +38,14 @@ label {
     background-color: #ebcdca;
     margin: 0px;
     height: 4rem;
+    display: flex;
+    align-items: center;
+  }
+  .title-hamburguer{
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #0c3d46;
+    font-size: 30px;
+    
   }
 
   .container-img {
@@ -62,7 +70,6 @@ label {
   .container-nav {
     display: none;
     height: 9em;
-    width: 50%;
     box-shadow: none;
   }
 

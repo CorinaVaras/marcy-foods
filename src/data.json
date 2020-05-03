@@ -2,7 +2,7 @@
     {
         "id": "t01",
         "img": "https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/asests/img/torta2.jpg",
-        "name": "Chocolate rellena de chocolate",
+        "name": "Chocolate chocolate",
         "type": "tortas",
         "price": 1800
     },
@@ -23,7 +23,7 @@
     {
         "id": "t04",
         "img": "https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/asests/img/torta1.png",
-        "name": "Chocolate con cuchuflis y mora",
+        "name": "Cuchuflis y mora",
         "type": "tortas",
         "price": 1800
     }

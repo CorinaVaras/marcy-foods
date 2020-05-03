@@ -9,11 +9,12 @@ const Menu = () => {
       <div className='container-card'>
       {data.map((data) => {
         return (
-          
           <div className='card' key={data.id}>
             <img className='data-img' src={`${data.img}`} />
+            <div className='items'>
             <p className='data-name'>{data.name}</p>
-            <p> $ {data.price}</p>
+            <p className='data-price'> $ {data.price}</p>
+            </div>
           </div>
           
           );

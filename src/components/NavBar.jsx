@@ -8,6 +8,7 @@ const NavBar = () => {
         <>
         <label htmlFor="toggle">
             <img style={{ width: "40px", height: "40px", padding:'10px' }} alt="menuIcon" src={menu}/>
+            <p className='title-hamburguer'>Marcy Foods</p>
          </label>
         <input type="checkbox" id="toggle" />
 
@@ -17,7 +18,7 @@ const NavBar = () => {
         </div>
         <div className='container-items'> 
             <div className='item-nav'>
-            <div style={{marginLeft: '10px'}}>Inicios</div>
+            <div style={{marginLeft: '10px'}}>Inicio</div>
             </div>
             <div className='item-nav'> 
             <div style={{marginLeft: '10px'}}>Productos</div>
