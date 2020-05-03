@@ -1,28 +1,28 @@
 [
     {
         "id": "t01",
-        "img": "https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/asests/img/torta2.jpg",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/asests/img/torta2.jpg",
         "name": "Chocolate chocolate",
         "type": "tortas",
         "price": 1800
     },
     {
         "id": "t02",
-        "img": "https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/asests/img/torta3.png",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/asests/img/torta3.png",
         "name": "Chocolate con fresas",
         "type": "tortas",
         "price": 1800
     },
     {
         "id": "t03",
-        "img": "https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/asests/img/torta4.jpg",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/asests/img/torta4.jpg",
         "name": "Marquesa de chocolate",
         "type": "tortas",
         "price": 1800
     },
     {
         "id": "t04",
-        "img": "https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/asests/img/torta1.png",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/asests/img/torta1.png",
         "name": "Cuchuflis y mora",
         "type": "tortas",
         "price": 1800

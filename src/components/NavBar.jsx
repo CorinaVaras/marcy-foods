@@ -14,7 +14,7 @@ const NavBar = () => {
 
         <div className='container-nav'>
         <div className='container-img'>
-            <img src={logo} style={{width: '85px', height:'50px'}}/>
+            <img alt="marcyfood" src={logo} style={{width: '85px', height:'50px'}}/>
         </div>
         <div className='container-items'> 
             <div className='item-nav'>

@@ -20,16 +20,15 @@
     background-color: white;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
-    height: 16em;
+    height: 18em;
     margin: 15px;
     padding: 5px;
     width: 15em;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
 }
 .data-img{
-    width: 120px;
-    height: 110px;
+    width: 15em;
+    height: 10em;
     display: flex;
     align-self: center;
 }
