@@ -1,7 +1,7 @@
 [
     {
         "id": "p01",
-        "img": "src/asests/img/torta2.jpg",
+        "img": "https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/asests/img/torta2.jpg",
         "name": "Marquesa de chocolate",
         "type": "postres",
         "price": 1800

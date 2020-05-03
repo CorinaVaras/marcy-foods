@@ -4,12 +4,12 @@ import data from "../data.json";
 const Inicio = () => {
   return (
     <div>
-      {data.map((current) => {
+      {data.map((data) => {
         return (
-          <div key={current.id}>
-            <img alt="item-img" src={current.img} />
-            <p>{current.name}</p>
-            <p> $ {current.price}</p>
+          <div key={data.id}>
+            <img src={`${data.img}`} />
+            <p>{data.name}</p>
+            <p> $ {data.price}</p>
           </div>
         );
       })}
