@@ -20,10 +20,10 @@
     background-color: white;
     display: flex;
     flex-wrap: wrap;
-    height: 18em;
+    height: 17em;
     margin: 15px;
     padding: 5px;
-    width: 15em;
+    width: 235px;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
 }
 .data-img{
@@ -34,7 +34,7 @@
 }
 
 .items{
-    height: 9em;
+    height: 8em;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
