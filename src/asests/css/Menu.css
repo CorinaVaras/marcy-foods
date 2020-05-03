@@ -28,8 +28,8 @@
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
 }
 .data-img{
-    width: 120px;
-    height: 110px;
+    width: 15em;
+    height: 10em;
     display: flex;
     align-self: center;
 }
