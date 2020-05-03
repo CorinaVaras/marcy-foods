@@ -1,6 +1,6 @@
 import React from 'react';
 import NavBar from './components/NavBar';
-import Inicio from './components/Inicio';
+import Menu from './components/Menu';
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <>    
    
       <NavBar />
-      <Inicio />
+      <Menu />
     </>
   );
 }
