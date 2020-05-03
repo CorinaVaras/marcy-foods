@@ -3,6 +3,8 @@
   background-color: #ebcdca;
   height: 5em;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  position: fixed;
+  width: 100%;
 }
 .container-img {
   display: flex;
@@ -39,7 +41,6 @@ label {
     margin: 0px;
     height: 4rem;
   }
-
   .container-img {
     display: none;
   }
