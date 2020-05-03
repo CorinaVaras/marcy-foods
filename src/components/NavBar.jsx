@@ -17,7 +17,7 @@ const NavBar = () => {
         </div>
         <div className='container-items'> 
             <div className='item-nav'>
-            <div style={{marginLeft: '10px'}}>Inicios</div>
+            <div style={{marginLeft: '10px'}}>Inicio</div>
             </div>
             <div className='item-nav'> 
             <div style={{marginLeft: '10px'}}>Productos</div>
