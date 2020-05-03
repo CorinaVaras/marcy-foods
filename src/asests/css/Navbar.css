@@ -3,9 +3,13 @@
   background-color: #ebcdca;
   height: 5em;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+<<<<<<< HEAD
   box-shadow: 0 0 10px black;
 }
 
+=======
+}
+>>>>>>> bf21c18e168850481485a04a82e6358ee1398a0c
 .container-img {
   display: flex;
   align-items: center;
@@ -41,7 +45,11 @@ label {
     margin: 0px;
     height: 4rem;
   }
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> bf21c18e168850481485a04a82e6358ee1398a0c
   .container-img {
     display: none;
   }
@@ -54,6 +62,7 @@ label {
     align-self: flex-start;
     padding: 10px;
   }
+<<<<<<< HEAD
   
   #toggle:checked ~ .container-nav {
     transition:all .5s ease-in-out; 
@@ -68,6 +77,21 @@ label {
     width: 50%;
     box-shadow: none;
   }
+=======
+
+  #toggle:checked ~ .container-nav {
+    display: block;
+    margin: 0;
+    background-color: rgba(000, 000, 000, 0.2);
+  }
+
+  .container-nav {
+    display: none;
+    height: 9em;
+    width: 50%;
+    box-shadow: none;
+  }
+>>>>>>> bf21c18e168850481485a04a82e6358ee1398a0c
 
   .item-perfil {
     margin-top: 10px;
