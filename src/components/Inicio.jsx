@@ -1,11 +1,15 @@
-import React from 'react'
+import React from "react";
+import "../asests/css/Inicio.css";
 
 const Inicio = () => {
-    return (
-        <div>
-            <img src="../img/bienmesabe.jpg" alt="torta"/>
-        </div>
-    )
-}
+  return (
+    <div className="container-inicio">
+      <p className="title">
+        Bienvenidos
+        <br />a Marcy Food
+      </p>
+    </div>
+  );
+};
 
-export default Inicio
+export default Inicio;
