@@ -28,14 +28,14 @@
         "price": 1800
     },
     {
-        "id": "t04",
+        "id": "t05",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/bienmesabe.jpg",
         "name": "Bienmesabe",
         "type": "tortas",
         "price": 1800
     },
     {
-        "id": "t05",
+        "id": "t06",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/hallaca1.jpg",
         "name": "Hallaca",
         "type": "tortas",
