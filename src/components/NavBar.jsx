@@ -1,14 +1,13 @@
 import React from 'react'
-import menu from '../asests/img/menuIcon.png'
-import '../asests/css/Navbar.css';
-import logo from '../asests/img/logo.png'
+import menu from '../assets/img/menuIcon.png'
+import '../assets/css/Navbar.css';
+import logo from '../assets/img/logo.png'
 
 const NavBar = () => {
     return (
         <>
         <label htmlFor="toggle">
             <img style={{ width: "40px", height: "40px", padding:'10px' }} alt="menuIcon" src={menu}/>
-            <p className='title-hamburguer'>Marcy Foods</p>
          </label>
         <input type="checkbox" id="toggle" />
 

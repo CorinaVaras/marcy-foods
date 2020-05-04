@@ -1,12 +1,12 @@
 import React from "react";
-import "../asests/css/Inicio.css";
+import "../assets/css/Inicio.css";
 
 const Inicio = () => {
   return (
     <div className="container-inicio">
       <p className="title">
         Bienvenidos
-        <br />a Marcy Food
+        <br />a Marcy Foods
       </p>
     </div>
   );
