@@ -1,6 +1,6 @@
 import React from "react";
 import data from "../data.json";
-import '../asests/css/Menu.css'
+import '../assets/css/Menu.css'
 
 const Menu = () => {
   return (
