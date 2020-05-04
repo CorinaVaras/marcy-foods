@@ -13,7 +13,9 @@ const NavBar = () => {
 
         <div className='container-nav'>
         <div className='container-img'>
+        
             <img alt="marcyfood" src={logo} style={{width: '85px', height:'50px'}}/>
+            
         </div>
         <div className='container-items'> 
             <div className='item-nav'>

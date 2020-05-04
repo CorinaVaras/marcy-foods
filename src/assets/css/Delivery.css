@@ -1,0 +1,18 @@
+.container-delivery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 36rem;
+    background-image: url("../img/torta5.jpg");
+    background-size: cover;
+    
+  } 
+  
+  .title-delivery {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 55px;
+    color: white;
+    margin-left: 18px;
+    padding: 15px;
+  }
