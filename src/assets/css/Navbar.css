@@ -26,6 +26,11 @@
   align-items: center;
 }
 
+.item-nav:hover{
+  cursor: pointer;
+  color: white;
+}
+
 label {
   display: none;
 }
@@ -33,6 +38,7 @@ label {
 #toggle {
   display: none;
 }
+
 
 @media (max-width: 700px) {
   label {
