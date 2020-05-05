@@ -11,12 +11,12 @@ const Footer = () => {
 
         <div className="info-cards">
           <img alt="marcyfood" src={phone} />
-          <p><span>Horario<br/>Lun-Sab 9am-9pm </span><br/>+56 9 4855 5912</p>
+          <p><span>Horario<br/>Lun-Sab 9am-9pm </span><br/><a href="tel:+56948555912">+56 9 4855 5912</a></p>
         </div>
 
         <div className="info-cards">
           <img alt="marcyfood" src={mail} />
-          <p><span>Email <br/>24/7 Soporte Online</span><br/>marvarasr@gmail.com</p>
+          <p><span>Email <br/>24/7 Soporte Online</span><br/><a href="mailto:marvarasr@gmail.com">marvarasr@gmail.com</a></p>
         </div>
 
         <div className="info-cards">
