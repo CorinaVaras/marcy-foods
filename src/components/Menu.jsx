@@ -4,7 +4,7 @@ import '../assets/css/Menu.css'
 
 const Menu = () => {
   return (
-    <div>
+    <div id="menu">
       <div className='title-menu'>Nuestra carta</div>
       <div className='container-card'>
       {data.map((data) => {

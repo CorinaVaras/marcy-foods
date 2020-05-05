@@ -5,7 +5,7 @@ import ws from '../assets/img/ws.png';
 
 const Delivery = () => {
   return (
-    <div className="container-delivery">
+    <div className="container-delivery" id="delivery">
       <p className="title-delivery">
         Haz tu pedido ahora!
       </p>

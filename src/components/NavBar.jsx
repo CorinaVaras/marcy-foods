@@ -1,15 +1,11 @@
-import React from 'react'
-import menu from '../assets/img/menuIcon.png'
+import React from 'react';
+import menu from '../assets/img/menuIcon.png';
 import '../assets/css/Navbar.css';
-import '../assets/css/hover-min.css'
-import logo from '../assets/img/logo.png'
-import { animateScroll as scroll} from 'react-scroll';
+import '../assets/css/hover-min.css';
+import logo from '../assets/img/logo.png';
+import { Link } from 'react-scroll';
 
 const NavBar = () => {
-
-    function onClickDown(){
-        scroll.scrollTo(200);
-    }
 
     return (
         <>
@@ -26,13 +22,44 @@ const NavBar = () => {
         </div>
         <div className='container-items'> 
             <div className='item-nav '>
-            <div className='hvr-underline-from-center' style={{marginLeft: '10px'}} onClick={() => onClickDown()}>Inicio</div>
+            <Link
+            className='hvr-underline-from-center'
+            activeClass="active"
+            to="inicio"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={600}>Inicio</Link>
             </div>
-            <div className='item-nav'> 
-            <div className='hvr-underline-from-center' style={{marginLeft: '10px'}}>Productos</div>
+            <div className='item-nav'>
+            <Link
+            className='hvr-underline-from-center'
+            activeClass="active"
+            to="menu"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={600}>Menú</Link>
             </div>
-            <div className='item-nav'> 
-            <div className='hvr-underline-from-center' style={{marginLeft: '10px'}}>Contacto</div>
+            <div className='item-nav'>
+            <Link
+            className='hvr-underline-from-center'
+            activeClass="active"
+            to="delivery"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={600}>Delivery</Link>
+            </div>
+            <div className='item-nav'>
+            <Link
+            className='hvr-underline-from-center'
+            activeClass="active"
+            to="contacto"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={600}>Contacto</Link>
             </div>
         </div>
         </div>
