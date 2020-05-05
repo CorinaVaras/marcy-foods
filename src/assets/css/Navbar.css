@@ -26,10 +26,10 @@
   align-items: center;
 }
 
-.item-nav:hover{
+/* .item-nav:hover{
   cursor: pointer;
   color: white;
-}
+} */
 
 label {
   display: none;
