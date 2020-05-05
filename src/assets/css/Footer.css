@@ -40,6 +40,16 @@
     color: #babec4;
 }
 
+.info-cards p a{
+    color: white;
+}
+
+@media (max-width: 750px){
+    .card-container{
+        flex-direction: column;
+    }
+}
+
 @media (max-width: 430px) {
     .info-cards img{
         width: 3em;
@@ -51,4 +61,4 @@
     .copyright{
       font-size: 13px;
     }
-  }
+}
