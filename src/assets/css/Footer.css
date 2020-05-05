@@ -20,6 +20,7 @@
     align-items: center;
 }
 
+
 .copyright{
     display: flex;
     justify-content: center;
@@ -40,7 +41,14 @@
 }
 
 @media (max-width: 430px) {
+    .info-cards img{
+        width: 3em;
+        height: 3em;
+    }
+    .info-cards p{
+        font-size: 15px;
+    }
     .copyright{
-      font-size: 15px;
+      font-size: 13px;
     }
   }

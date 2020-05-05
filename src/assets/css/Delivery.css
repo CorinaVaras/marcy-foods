@@ -13,12 +13,28 @@
     font-family: 'Libre Baskerville', serif;
     font-size: 55px;
     color: white;
-    margin-left: 18px;
-    padding: 15px;
+  }
+
+  .container-delivery img{
+    width: 35em;
   }
 
   @media (max-width: 700px) {
+
+    .container-delivery{
+      height: 18em;
+      align-items: flex-start;
+      justify-content: flex-start;
+      padding-left: 15px;
+      
+      
+    }
     .container-delivery img{
       width: 17em;
+    }
+    .title-delivery {
+      font-size: 28px;
+      
+      
     }
   }
