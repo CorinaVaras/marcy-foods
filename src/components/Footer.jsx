@@ -6,7 +6,7 @@ import mail from "../assets/img/mail.png";
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer className="footer" id="contacto">
       <div className="card-container">
 
         <div className="info-cards">
