@@ -2,8 +2,14 @@ import React from 'react'
 import menu from '../assets/img/menuIcon.png'
 import '../assets/css/Navbar.css';
 import logo from '../assets/img/logo.png'
+import { animateScroll as scroll} from 'react-scroll';
 
 const NavBar = () => {
+
+    function onClickDown(){
+        scroll.scrollTo(200);
+    }
+
     return (
         <>
         <label htmlFor="toggle">
@@ -19,7 +25,7 @@ const NavBar = () => {
         </div>
         <div className='container-items'> 
             <div className='item-nav'>
-            <div style={{marginLeft: '10px'}}>Inicio</div>
+            <div style={{marginLeft: '10px'}} onClick={() => onClickDown()}>Inicio</div>
             </div>
             <div className='item-nav'> 
             <div style={{marginLeft: '10px'}}>Productos</div>
