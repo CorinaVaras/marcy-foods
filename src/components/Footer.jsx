@@ -10,13 +10,13 @@ const Footer = () => {
       <div className="card-container">
 
         <div className="info-cards">
-          <img alt="marcyfood" src={phone} />
-          <p><span>Horario<br/>Lun-Sab 9am-9pm </span><br/><a href="tel:+56948555912">+56 9 4855 5912</a></p>
+        <a href="tel:+56948555912"><img alt="marcyfood" title='Hazme una llamada' src={phone} /></a>
+          <p><span>Horario<br/>Lun-Sab 9am-9pm </span><br/>+56 9 4855 5912</p>
         </div>
 
         <div className="info-cards">
-          <img alt="marcyfood" src={mail} />
-          <p><span>Email <br/>24/7 Soporte Online</span><br/><a href="mailto:marvarasr@gmail.com">marvarasr@gmail.com</a></p>
+        <a href="mailto:marvarasr@gmail.com"><img alt="marcyfood" title='Mandame un correo' src={mail}/></a>
+          <p><span>Email <br/>24/7 Soporte Online</span><br/>marvarasr@gmail.com</p>
         </div>
 
         <div className="info-cards">
