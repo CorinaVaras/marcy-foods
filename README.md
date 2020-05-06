@@ -1,5 +1,19 @@
 
-## Marcy Foods
+# Marcy Foods
+
+Marcela Varas es una venezolana en santiago que decidió emprender lanzando un negocio de ventas de tortas.
+
+Hace delivery directo hasta tu casa o apartamento en un plazo de 48hrs.
+
+## Página Web
+
+Puedes revisar la página web en la siguiente dirección: [Marcy Foods](https://portafolio-2f2ea.web.app/sobre-mi)
+
+## Redes Sociales 
+
+También la puedes conseguir en instagram: [@marcyfoods](https://www.instagram.com/marcyfoods/?hl=es-la)
+
+### Deliciosas tortas disponibles
 
 ![](src/assets/img/bienmesabe.jpg)
 
