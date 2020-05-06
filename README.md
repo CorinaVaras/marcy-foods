@@ -7,7 +7,7 @@ Hace delivery directo hasta tu casa o apartamento en un plazo de 48hrs.
 
 ## Página Web
 
-Puedes revisar la página web en la siguiente dirección: [Marcy Foods](https://portafolio-2f2ea.web.app/sobre-mi)
+Puedes revisar la página web en la siguiente dirección: [Marcy Foods](https://marcy-foods.web.app/)
 
 ## Redes Sociales 
 
