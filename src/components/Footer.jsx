@@ -20,7 +20,8 @@ const Footer = () => {
         </div>
 
         <div className="info-cards">
-          <img alt="marcyfood" src={home} />
+          <a href="https://www.google.cl/maps/place/Roberto+Espinoza+669,+Santiago,+Regi%C3%B3n+Metropolitana/@-33.4540125,-70.6556477,17z/data=!3m1!4b1!4m5!3m4!1s0x9662c50ef1205f69:0x8c9304ba805fddd3!8m2!3d-33.454017!4d-70.653459"
+             title="Ver la ubicación en google maps" target="blank"><img alt="marcyfood" src={home}/></a>
           <p><span>Santiago - Chile</span><br/>Roberto Espinoza 669</p>
         </div>
 
