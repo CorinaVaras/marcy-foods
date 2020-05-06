@@ -12,3 +12,7 @@
 ![](src/assets/img/torta4.jpg)
 
 ![](src/assets/img/hallaca1.jpg)
+
+![](src/assets/img/zanahoria.jpg)
+
+![](src/assets/img/zanahoria2.jpg)

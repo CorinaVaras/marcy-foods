@@ -40,6 +40,20 @@
         "name": "Hallaca",
         "type": "tortas",
         "price": "1.500"
+    },
+    {
+        "id": "t07",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/zanahoria2.jpg",
+        "name": "Torta de Zanahoria",
+        "type": "tortas",
+        "price": "9.000"
+    },
+    {
+        "id": "t08",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/zanahoria.jpg",
+        "name": "Rebanada de zanahoria",
+        "type": "tortas",
+        "price": "1.200"
     }
     
 ]
