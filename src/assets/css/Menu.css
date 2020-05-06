@@ -23,29 +23,29 @@
     background-color: white;
     display: flex;
     flex-wrap: wrap;
-    height: 17em;
+    height: 18em;
     margin: 15px;
-    padding: 5px;
-    width: 235px;
+    width: 210px;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
 }
 .data-img{
-    width: 15em;
+    width: 210px;
     height: 10em;
     display: flex;
     align-self: center;
 }
 
 .items{
-    height: 8em;
     display: flex;
     flex-direction: column;
+    padding-left: 10px;
+    padding-bottom: 10px;
     justify-content: space-between;
 }
 
 
 .data-name{
-    font-size: 20px;
+    font-size: 19px;
     max-width: 15em;
 }
 .data-price{

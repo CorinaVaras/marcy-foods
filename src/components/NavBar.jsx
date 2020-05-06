@@ -48,7 +48,7 @@ const NavBar = () => {
               offset={-70}
               duration={600}
             >
-              Menú
+              Productos
             </Link>
           </div>
           <div className="item-nav">

@@ -4,42 +4,42 @@
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta2.jpg",
         "name": "Chocolate chocolate",
         "type": "tortas",
-        "price": 10000
+        "price": "13.000"
     },
     {
         "id": "t02",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta3.png",
-        "name": "Chocolate con fresas",
+        "name": "Chocolate Frutilla",
         "type": "tortas",
-        "price": 13000
+        "price": "15.000"
     },
     {
         "id": "t03",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta4.jpg",
         "name": "Marquesa de chocolate",
         "type": "tortas",
-        "price": 14000
+        "price": "13.000"
     },
     {
         "id": "t04",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta1.png",
         "name": "Cuchuflis y mora",
         "type": "tortas",
-        "price": 1800
+        "price": "15.000"
     },
     {
         "id": "t05",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/bienmesabe.jpg",
         "name": "Bienmesabe",
         "type": "tortas",
-        "price": 1800
+        "price": "1.800"
     },
     {
         "id": "t06",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/hallaca1.jpg",
         "name": "Hallaca",
         "type": "tortas",
-        "price": 1500
+        "price": "1.500"
     }
     
 ]
