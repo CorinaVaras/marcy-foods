@@ -1,60 +1,138 @@
 [
     {
         "id": "t01",
-        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta2.jpg",
-        "name": "Chocolate chocolate",
-        "type": "tortas",
-        "price": "13.000"
-    },
-    {
-        "id": "t02",
-        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta3.png",
-        "name": "Chocolate Frutilla",
-        "type": "tortas",
-        "price": "15.000"
-    },
-    {
-        "id": "t03",
-        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta4.jpg",
-        "name": "Marquesa de chocolate",
-        "type": "tortas",
-        "price": "15.000"
-    },
-    {
-        "id": "t04",
-        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta1.png",
-        "name": "Cuchuflis y mora",
-        "type": "tortas",
-        "price": "15.000"
-    },
-    {
-        "id": "t05",
-        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/bienmesabe.jpg",
-        "name": "Bienmesabe",
-        "type": "tortas",
-        "price": "1.800"
-    },
-    {
-        "id": "t06",
-        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/hallaca1.jpg",
-        "name": "Hallaca",
-        "type": "tortas",
-        "price": "1.500"
-    },
-    {
-        "id": "t07",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/zanahoria2.jpg",
         "name": "Torta de Zanahoria",
         "type": "tortas",
         "price": "9.000"
     },
     {
-        "id": "t08",
+        "id": "t02",
         "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/zanahoria.jpg",
         "name": "Rebanada de zanahoria",
         "type": "tortas",
         "price": "1.200"
+    },
+    {
+        "id": "t03",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Torta Bienmesabe",
+        "type": "tortas",
+        "price": "12.000"
+    },
+    {
+        "id": "t04",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/bienmesabe.jpg",
+        "name": "Porción de Bienmesabe",
+        "type": "tortas",
+        "price": "1.800"
+    },
+    {
+        "id": "t05",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Torta tres leches",
+        "type": "tortas",
+        "price": "12.000"
+    },
+    {
+        "id": "t06",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Porción tres leches",
+        "type": "tortas",
+        "price": "1.800"
+    },
+    {
+        "id": "t07",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta4.jpg",
+        "name": "Marquesa de chocolate",
+        "type": "tortas",
+        "price": "15.000"
+    },
+    {
+        "id": "t08",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Porción marquesa de chocolate",
+        "type": "tortas",
+        "price": "1.500"
+    },
+    {
+        "id": "t09",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Porción doble marquesa de chocolate",
+        "type": "tortas",
+        "price": "2.500"
+    },
+    {
+        "id": "t10",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Marquesa de limón",
+        "type": "tortas",
+        "price": "15.000"
+    },
+    {
+        "id": "t11",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Porción marquesa de limón",
+        "type": "tortas",
+        "price": "1.500"
+    },
+    {
+        "id": "t12",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Porción doble marquesa de limón",
+        "type": "tortas",
+        "price": "2.500"
+    },
+    {
+        "id": "t13",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Marquesa de oreo",
+        "type": "tortas",
+        "price": "15.000"
+    },
+    {
+        "id": "t14",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Porción marquesa de oreo",
+        "type": "tortas",
+        "price": "1.500"
+    },
+    {
+        "id": "t15",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/referencial.jpg",
+        "name": "Porción doble marquesa de oreo",
+        "type": "tortas",
+        "price": "2.500"
+    },
+    {
+        "id": "t16",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta2.jpg",
+        "name": "Torta chocolate húmeda",
+        "type": "tortas",
+        "price": "15.000"
+    },
+    {
+        "id": "t17",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta3.png",
+        "name": "Chocolate Frutilla",
+        "type": "tortas",
+        "price": "15.000"
+    },
+    {
+        "id": "t18",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/torta1.png",
+        "name": "Cuchuflis y mora",
+        "type": "tortas",
+        "price": "15.000"
+    },
+    {
+        "id": "t19",
+        "img": "https://raw.githubusercontent.com/Gonzalo9725/marcy-foods/master/src/assets/img/hallaca1.jpg",
+        "name": "Hallaca",
+        "type": "tortas",
+        "price": "1.500"
     }
+    
     
 ]
 
